@@ -39,3 +39,9 @@ To open and run the notebooks:
 ```sh
 jupyter notebook
 ```
+
+## Related Research
+Please also check these papers:
+
+- Kanoh, R., Sugiyama, M.: **A Neural Tangent Kernel Perspective of Infinite Tree Ensembles**, ICLR 2022
+- Kanoh, R., Sugiyama, M.: **Analyzing Tree Architectures in Ensembles via Neural Tangent Kernel**, ICLR 2023
